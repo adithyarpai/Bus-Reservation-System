@@ -17,7 +17,7 @@ class depot
 		void empty();
 		void show();
 		void available();
-	    void position(int i);
+	        void position(int i);
 };
 
 depot bus[10];
